@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\registrationApp\registrationApp\bin\Debug\registrationApp.exe.config
+C:\Users\User\source\repos\registrationApp\registrationApp\bin\Debug\registrationApp.exe
+C:\Users\User\source\repos\registrationApp\registrationApp\bin\Debug\registrationApp.pdb
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.Properties.Resources.resources
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.exe
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.pdb
+C:\Users\User\source\repos\registrationApp\registrationApp\obj\Debug\registrationApp.View.resources

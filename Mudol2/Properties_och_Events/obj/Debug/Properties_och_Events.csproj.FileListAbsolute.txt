@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\bin\Debug\Properties_och_Events.exe.config
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\bin\Debug\Properties_och_Events.exe
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\bin\Debug\Properties_och_Events.pdb
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.Form1.resources
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.Properties.Resources.resources
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.exe
+C:\Users\User\source\repos\Mudol2\Properties_och_Events\obj\Debug\Properties_och_Events.pdb

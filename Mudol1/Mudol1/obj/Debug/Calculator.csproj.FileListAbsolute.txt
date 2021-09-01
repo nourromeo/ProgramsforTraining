@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mudol1\Mudol1\bin\Debug\Mudol1.exe.config
+C:\Users\User\source\repos\Mudol1\Mudol1\bin\Debug\Mudol1.exe
+C:\Users\User\source\repos\Mudol1\Mudol1\bin\Debug\Mudol1.pdb
+C:\Users\User\source\repos\Mudol1\Mudol1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mudol1\Mudol1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mudol1\Mudol1\obj\Debug\Mudol1.exe
+C:\Users\User\source\repos\Mudol1\Mudol1\obj\Debug\Mudol1.pdb

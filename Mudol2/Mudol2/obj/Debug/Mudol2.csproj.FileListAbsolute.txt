@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Mudol2\Mudol2\bin\Debug\Mudol2.exe.config
+C:\Users\User\source\repos\Mudol2\Mudol2\bin\Debug\Mudol2.exe
+C:\Users\User\source\repos\Mudol2\Mudol2\bin\Debug\Mudol2.pdb
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.Properties.Resources.resources
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.exe
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.pdb
+C:\Users\User\source\repos\Mudol2\Mudol2\obj\Debug\Mudol2.MainForm.resources

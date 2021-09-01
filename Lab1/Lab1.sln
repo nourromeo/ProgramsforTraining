@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heltal", "Lab1\Heltal.csproj", "{0BB5619A-45ED-4604-A3D7-6AD5DCEE3AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberCheck", "numberCheck\numberCheck.csproj", "{06A0D796-5799-4231-AF07-FA4DE3F63F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB5619A-45ED-4604-A3D7-6AD5DCEE3AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB5619A-45ED-4604-A3D7-6AD5DCEE3AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB5619A-45ED-4604-A3D7-6AD5DCEE3AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB5619A-45ED-4604-A3D7-6AD5DCEE3AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A0D796-5799-4231-AF07-FA4DE3F63F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A0D796-5799-4231-AF07-FA4DE3F63F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A0D796-5799-4231-AF07-FA4DE3F63F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A0D796-5799-4231-AF07-FA4DE3F63F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE9BB9B-D399-4F38-A345-D4006289CEA1}
+	EndGlobalSection
+EndGlobal

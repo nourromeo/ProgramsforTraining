@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab2\Miniräknare\bin\Debug\Miniräknare.exe.config
+C:\Users\User\source\repos\Lab2\Miniräknare\bin\Debug\Miniräknare.exe
+C:\Users\User\source\repos\Lab2\Miniräknare\bin\Debug\Miniräknare.pdb
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.CalculatorForm.resources
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.Properties.Resources.resources
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.exe
+C:\Users\User\source\repos\Lab2\Miniräknare\obj\Debug\Miniräknare.pdb

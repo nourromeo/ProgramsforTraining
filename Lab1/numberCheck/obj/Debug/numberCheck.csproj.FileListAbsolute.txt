@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab1\numberCheck\bin\Debug\numberCheck.exe.config
+C:\Users\User\source\repos\Lab1\numberCheck\bin\Debug\numberCheck.exe
+C:\Users\User\source\repos\Lab1\numberCheck\bin\Debug\numberCheck.pdb
+C:\Users\User\source\repos\Lab1\numberCheck\obj\Debug\numberCheck.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab1\numberCheck\obj\Debug\numberCheck.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab1\numberCheck\obj\Debug\numberCheck.exe
+C:\Users\User\source\repos\Lab1\numberCheck\obj\Debug\numberCheck.pdb

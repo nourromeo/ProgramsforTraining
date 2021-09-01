@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\bin\Debug\Lab3 - texteditor.exe.config
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\bin\Debug\Lab3 - texteditor.exe
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\bin\Debug\Lab3 - texteditor.pdb
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3 - texteditor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3___texteditor.Properties.Resources.resources
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3 - texteditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3 - texteditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3 - texteditor.exe
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3 - texteditor.pdb
+C:\Users\User\source\repos\Lab3 - texteditor\Lab3 - texteditor\obj\Debug\Lab3___texteditor.TextEditor.resources
