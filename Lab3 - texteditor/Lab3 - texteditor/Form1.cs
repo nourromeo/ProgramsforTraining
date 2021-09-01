@@ -22,7 +22,8 @@ namespace Lab3___texteditor
         {
             InitializeComponent();
         }
-
+        
+        // menu action
         private void newMenu_Click(object sender, EventArgs e)
         {
             try
